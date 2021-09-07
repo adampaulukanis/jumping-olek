@@ -1,0 +1,20 @@
+{
+  "name": "jumping-olek",
+  "version": "1.0.0",
+  "description": "Gra",
+  "main": "index.js",
+  "scripts": {
+    "start": "php -S localhost:5444",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adampaulukanis/jumping-olek.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adampaulukanis/jumping-olek/issues"
+  },
+  "homepage": "https://github.com/adampaulukanis/jumping-olek#readme"
+}
